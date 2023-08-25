@@ -7,7 +7,7 @@ import Tab from "./Tab";
 
 export{   
 CustomButton,
-AIPicker,
+/* AIPicker, */
 ColorPicker,
 FilePicker,
 Tab
